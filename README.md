@@ -4,7 +4,7 @@ I'm João Angelo, a passionate software developer and tech enthusiast. I current
 With over 2 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 # 💻 Tech Stack
-![image][({BadgeURLHere})](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 # 🌐 Socials:
 
